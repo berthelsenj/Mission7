@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnberthelsen/Projects/Bookstore/Bookstore/Bookstore.csproj": {}
+    "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/Bookstore.csproj": {}
   },
   "projects": {
-    "/Users/johnberthelsen/Projects/Bookstore/Bookstore/Bookstore.csproj": {
+    "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnberthelsen/Projects/Bookstore/Bookstore/Bookstore.csproj",
+        "projectUniqueName": "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/Bookstore.csproj",
         "projectName": "Bookstore",
-        "projectPath": "/Users/johnberthelsen/Projects/Bookstore/Bookstore/Bookstore.csproj",
+        "projectPath": "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/Bookstore.csproj",
         "packagesPath": "/Users/johnberthelsen/.nuget/packages/",
-        "outputPath": "/Users/johnberthelsen/Projects/Bookstore/Bookstore/obj/",
+        "outputPath": "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/johnberthelsen/.config/NuGet/NuGet.Config"

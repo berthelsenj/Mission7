@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71tyR8fV9+7Uoqi1OPfY4JB+XHpZmrNhGfZPE1ODW1XkMbWeU5wXJ8jneypAzJ0KpeW1DkbfXPCwZKIn59eoZg==",
+  "dgSpecHash": "hE1NKfrqZO3l/M4tTq8GgboVjOoWAm8mLsK/61imRvjS7Tg92HMdro8HlPVCdLW0BsMbi2h1dXS0FE64Xp5oHw==",
   "success": true,
-  "projectFilePath": "/Users/johnberthelsen/Projects/Bookstore/Bookstore/Bookstore.csproj",
+  "projectFilePath": "/Users/johnberthelsen/Documents/GitHub/Mission7/Bookstore/Bookstore.csproj",
   "expectedPackageFiles": [
     "/Users/johnberthelsen/.nuget/packages/bootstrap/5.1.3/bootstrap.5.1.3.nupkg.sha512",
     "/Users/johnberthelsen/.nuget/packages/cake.libman/1.0.1/cake.libman.1.0.1.nupkg.sha512",
